@@ -1,0 +1,23 @@
+#chat {
+	width: 50%;
+}
+
+.message {
+    width: 51%;
+    background: #666;
+    color: #fff;
+    display: block;
+    padding: 10px;
+}
+
+.left {
+    display: block;
+    text-align: left;
+    float: left;
+}
+
+.right {
+    display: block;
+    text-align: right;
+    float: right;
+}
